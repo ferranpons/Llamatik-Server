@@ -1,37 +1,19 @@
-# Llamatik Server
+<p align="center">
+    <img src="https://raw.githubusercontent.com/ferranpons/llamatik/main/assets/llamatik-new-logo.png" alt="Llamatik Logo" width="120"/>
+</p>
 
-```{=html}
 <p align="center">
-```
-`<img src="https://raw.githubusercontent.com/ferranpons/llamatik/main/assets/llamatik-new-logo.png" alt="Llamatik Logo" width="120"/>`{=html}
-```{=html}
+    <b>Remote inference backend for the Llamatik ecosystem.</b>
 </p>
-```
-```{=html}
 <p align="center">
-```
-`<b>`{=html}Remote inference backend for the Llamatik
-ecosystem.`</b>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
 Ktor · Kotlin/JVM · llama.cpp-compatible API · Drop-in remote inference
-```{=html}
 </p>
-```
-```{=html}
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/Kotlin-JVM-blueviolet" />`{=html}
-`<img src="https://img.shields.io/badge/Ktor-Server-ff4088" />`{=html}
-`<img src="https://img.shields.io/badge/LLM-llama.cpp-orange" />`{=html}
-`<img src="https://img.shields.io/badge/License-MIT-lightgrey" />`{=html}
-```{=html}
+    <img src="https://img.shields.io/badge/Kotlin-JVM-blueviolet" />
+    <img src="https://img.shields.io/badge/Ktor-Server-ff4088" />
+    <img src="https://img.shields.io/badge/LLM-llama.cpp-orange" />
+    <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
 </p>
-```
 
 ------------------------------------------------------------------------
 
